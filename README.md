@@ -25,3 +25,6 @@ To ensure the game functions correctly, follow this specific order:
 ## Network Troubleshooting
    - Local Play: By default, NetworkClient.java connects to localhost.
    - LAN Play: If playing on different laptops, change the serverAddress in NetworkClient.java from "localhost" to the IP Address of the computer running the GameServer.
+
+
+
